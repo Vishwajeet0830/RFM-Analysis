@@ -4,7 +4,7 @@ RFM Analysis is a marketing analytics tool used to identify a company’s most v
 2.how often they make purchases (Frequency),
 3. how much money they spend (Monetary value).
 
-To solve the problem of RFM Analysis using SQL, follow the steps below.
+To solve the problem of RFM Analysis using SQL, follow the steps below:
 
 Step 1: We’ll primarily focus on Customer ID, Purchase Date, and Transaction Amount for RFM analysis. Ensure these fields are correctly formatted:
 a)Purchase Date should be in a date format,
