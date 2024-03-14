@@ -10,7 +10,7 @@ Step 1: We’ll primarily focus on Customer ID, Purchase Date, and Transaction A
 a)Purchase Date should be in a date format,
 b)Transaction Amount should be a numeric value.
 
-Step 2: The next step would involve creating a table in your SQL database that matches the structure of your data and then importing the data. This step is highly dependent on the SQL environment (e.g., MySQL, PostgreSQL) and tools you’re using.
+Step 2: The next step would involve creating a table in your SQL database that matches the structure of your data and then importing the data.
 
 Step 3: The next step is to calculate RFM metrics:
 a)Recency (R): Calculate how recently each customer made a purchase.
